@@ -1,5 +1,6 @@
 # KaseiCoin
 ERC20 token and crowdsale ICO contract.
+![image](https://github.com/dylan860/KaseiCoin/assets/127907809/8c8dee82-7232-48d2-bfbf-6ca7b249cb31)
 
 # Code
 Libraries
